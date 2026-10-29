@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @yomyX
+- 👋 Hi, I’m Yomna
 - 👀 I’m interested in space and programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on IDK...
-- 📫 How to reach me  ...
 
 <!---
 yomyX/yomyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
